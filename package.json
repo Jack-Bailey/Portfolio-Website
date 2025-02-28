@@ -23,7 +23,7 @@
     "@giscus/vue": "^3.0.0",
     "@iconify-json/fa-solid": "^1.1.8",
     "astro": "^4.5.9",
-    "astro-expressive-code": "^0.37.0",
+    "astro-expressive-code": "^0.40.0",
     "astro-icon": "^1.1.0",
     "dayjs": "^1.11.10",
     "dotenv": "^16.4.5",
